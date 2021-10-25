@@ -5,7 +5,7 @@
 let productos = [
 
     {
-        nombre: "Hamburguesa completa",
+        nombre: "Hamburguesa completa con queso",
         costo: 350,
         codigo: 1
 
